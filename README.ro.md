@@ -1,6 +1,5 @@
 ### Local Data Insights: Servicii de înfrumusețare în Constanța, România — August 2025
 <p align="center"> <img src="img/csv_preview.png" alt="Previzualizare set de date" width="85%"> </p>
-
 Date curate și structurate despre companiile din domeniul Serviciilor de înfrumusețare din Constanța, România.
 ---
 
@@ -34,4 +33,5 @@ Folosește varianta `.xlsx` sau importă coloanele
 
 > Setul complet de date este disponibil la cerere.  
 > Generat automat la **2025-10-27T12:19:17Z**.
+
 
