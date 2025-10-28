@@ -8,7 +8,7 @@
 | Phone     | 397 | 88.22% |
 | Website   | 62 | 13.78% |
 | Email     | 35 | 7.78% |
-| Any social| 100 | 22.22% |
+| Any social| 99 | 22.00% |
 
 ### Uniques & duplication
 | Metric                            | Value |
@@ -22,7 +22,7 @@
 ### Social presence (by platform)
 | Platform  | Count | Share |
 |-----------|------:|------:|
-| Facebook  | 73 | 16.22% |
+| Facebook  | 72 | 16.00% |
 | Instagram | 50 | 11.11% |
 | WhatsApp  | 7 | 1.56% |
 | YouTube   | 5 | 1.11% |
@@ -33,3 +33,5 @@
 | Pinterest | 1 | 0.22% |
 
 > Generated automatically • Local Data Insights (RO–MD)
+
+
